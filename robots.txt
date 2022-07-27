@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hondaajur.github.io/kabut/sitemap.xml
